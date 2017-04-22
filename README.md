@@ -1,4 +1,7 @@
-# test coverage for  [dreamjs (v0.1.8)](https://github.com/adleroliveira/dreamjs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dreamjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dreamjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dreamjs.svg)](https://travis-ci.org/npmtest/node-npmtest-dreamjs)
+# npmtest-dreamjs
+
+#### basic test coverage for  [dreamjs (v0.1.8)](https://github.com/adleroliveira/dreamjs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dreamjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dreamjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dreamjs.svg)](https://travis-ci.org/npmtest/node-npmtest-dreamjs)
+
 #### A lightweight json data generator.
 
 [![NPM](https://nodei.co/npm/dreamjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dreamjs)
